@@ -1,6 +1,6 @@
 function Six({ color }) {
     const boxStyle = {
-        backgroundColor: color, // Dynamically set background color
+        backgroundColor: color,
         width: '200px',
         height: '100px',
         textAlign: 'center',
